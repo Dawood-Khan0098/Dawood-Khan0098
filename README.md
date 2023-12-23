@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dawood-Khan0098
+- 👋 Hi, I’m Dawood Khan
 - 👀 I’m interested in ... making mobile app.
 - 🌱 I’m currently learning ... software and web development.
 - 💞️ I’m looking to collaborate on ... smit.
